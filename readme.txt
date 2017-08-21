@@ -8,4 +8,6 @@ My stupid boss still prefers SVN.
 The truth distributed version control system.
 
 
-Creating a new branch is quick & simple.
+
+Creating a new branch is quick AND simple.
+
